@@ -1,0 +1,31 @@
+mindcare-lite/
+│
+├── README.md
+├── index.html
+├── login.html
+├── signup.html
+├── dashboard.html
+├── mood-tracker.html
+├── mood-history.html
+│
+├── assets/
+│   ├── images/
+│   │   └── logo.png
+│   │
+│   └── icons/
+│
+├── css/
+│   ├── style.css
+│   ├── auth.css
+│   ├── dashboard.css
+│   └── mood.css
+│
+├── js/
+│   ├── auth.js
+│   ├── moodTracker.js
+│   ├── moodHistory.js
+│   ├── chatbot.js
+│   └── storage.js
+│
+└── data/
+    └── sampleData.json
